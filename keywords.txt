@@ -6,7 +6,7 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-NesGamepad KEYWORD1
+SegaGamepad KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
