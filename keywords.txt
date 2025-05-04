@@ -1,6 +1,6 @@
   
 #######################################
-# Syntax Coloring Map For NesGamepad
+# Syntax Coloring Map For SegaGamepad
 #######################################
 
 #######################################
