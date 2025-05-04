@@ -1,6 +1,8 @@
 
 # SegaGamepad  
 
+[![.github/workflows/arduino-lint.yml](https://github.com/IvoryRubble/ArduinoSegaGamepadLibrary/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/IvoryRubble/ArduinoSegaGamepadLibrary/actions/workflows/arduino-lint.yml)
+
 Yet another library to read Sega Mega Drive (aka Sega Genesis) gamepad.  
 Supports both three and six buttons controllers.  
 
